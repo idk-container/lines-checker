@@ -1,8 +1,8 @@
-.obj
-.bin
-.vscode/
+*.obj
+*.bin
+*.vscode/
 
 
 
 Thumbs.db
-.DS_Store
+*.DS_Store

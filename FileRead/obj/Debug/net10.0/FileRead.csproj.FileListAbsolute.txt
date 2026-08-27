@@ -1,0 +1,11 @@
+C:\Users\alohp\Desktop\weaterproject\FileRead\bin\Debug\net10.0\FileRead.deps.json
+C:\Users\alohp\Desktop\weaterproject\FileRead\bin\Debug\net10.0\FileRead.dll
+C:\Users\alohp\Desktop\weaterproject\FileRead\bin\Debug\net10.0\FileRead.pdb
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.AssemblyInfoInputs.cache
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.AssemblyInfo.cs
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.dll
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\refint\FileRead.dll
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.pdb
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\ref\FileRead.dll

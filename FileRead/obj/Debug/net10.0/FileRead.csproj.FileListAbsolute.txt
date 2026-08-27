@@ -5,6 +5,7 @@ C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.Generat
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.AssemblyInfoInputs.cache
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.AssemblyInfo.cs
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.sourcelink.json
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.dll
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\refint\FileRead.dll
 C:\Users\alohp\Desktop\weaterproject\FileRead\obj\Debug\net10.0\FileRead.pdb

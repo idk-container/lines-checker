@@ -11,6 +11,7 @@ C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.GeneratedMS
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.AssemblyInfoInputs.cache
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.AssemblyInfo.cs
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.csproj.CoreCompileInputs.cache
+C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.sourcelink.json
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterpr.5C4BE286.Up2Date
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\weaterproject.dll
 C:\Users\alohp\Desktop\weaterproject\obj\Debug\net10.0\refint\weaterproject.dll

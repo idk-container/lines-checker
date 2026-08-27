@@ -13,7 +13,6 @@ namespace fileRead
         Task<int> GetLinesCountAsync(string path);
     }
 
-    // 2. Класс реализует интерфейс (убрали static)
     public class FileCounter : IFilesMethods
     {
         private static readonly string[] IncludeFiles = 
@@ -25,7 +24,6 @@ namespace fileRead
             "lib/b.exs" 
         };
 
-        // Метод стал экземплярным (public int вместо public static int)
         public int GetLinesCount(string path, bool ignoreEmptyLines = false)
         {
             if (!File.Exists(path))
